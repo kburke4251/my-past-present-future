@@ -1,7 +1,42 @@
 h1 {
-    text-align: center;
+  border: 5px solid #ffffff;
+  border-radius: 20px 0 20px 0;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
 }
 
 h2 {
     text-align: center;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+h3 {
+  text-align: center;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #265be2;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol {
+  text-align: center;
+  font-size: 20px;
+}
+
+p {
+  text-indent: 50px;
+  font-size: 20px;
 }
