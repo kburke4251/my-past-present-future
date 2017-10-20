@@ -57,3 +57,11 @@ img.left {
   float: left;
     max-width: 100%;
 }
+
+a {
+  color: #00ff00
+}
+
+ul {
+  font-size: 20px;
+}
